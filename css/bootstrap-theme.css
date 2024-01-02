@@ -68,7 +68,7 @@ fieldset[disabled] .btn-danger {
   background-image: none;
   background-image: none;
   background-repeat: repeat-x;
-  border-color: #transparent;
+  border-color: transparent;
 }
 .btn-default:hover,
 .btn-default:focus {
