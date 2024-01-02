@@ -159,8 +159,7 @@ h1.heading.pink:after {
   background: #fff;
 }
 
-.client-box .project-purple {
-  background-color: #7447ae;
+.client-box {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.03);
   padding: 3.5em 2em;
   border-radius: 5px;
@@ -171,15 +170,10 @@ h1.heading.pink:after {
   transition: all 0.2s;
 }
 .client-box .project-purple {
+  background-color: #7447ae;
+}
+.client-box .project-blue {
   background-color: #37a7ff;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.03);
-  padding: 3.5em 2em;
-  border-radius: 5px;
-  border: 1px solid #eee;
-  text-align: center;
-  -webkit-transition: all 0.2s;
-  -moz-transition: all 0.2s;
-  transition: all 0.2s;
 }
 .client-box .project-logo {
   max-height: 120px;
