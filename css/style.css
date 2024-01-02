@@ -153,7 +153,6 @@ h1.heading.pink:after {
   width: 100%;
   height: 100%;
   padding: 4em 1em;
-  display: inline;
 }
 .swiper-slide {
   font-size: 18px;
@@ -161,6 +160,7 @@ h1.heading.pink:after {
 }
 
 .client-box {
+  background-color: #fff;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.03);
   padding: 3.5em 2em;
   border-radius: 5px;
@@ -169,12 +169,6 @@ h1.heading.pink:after {
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
-}
-.client-box .project-purple {
-  background-color: #7447ae;
-}
-.client-box .project-blue {
-  background-color: #37a7ff;
 }
 .client-box .project-logo {
   max-height: 120px;
