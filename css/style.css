@@ -194,28 +194,7 @@ h1.heading.pink:after {
   box-shadow: 0 0 40px rgba(0, 0, 0, 0.1);
   z-index: 2;
 }
-.swiper-button-next, .swiper-button-prev {
-  width: 80px;
-  height: 80px;
-  background-size: 80px 80px;
-  box-shadow: 0 0 40px rgba(0, 0, 0, 0.05);
-  border-radius: 5em;
-  -webkit-transition: all 0.2s;
-  -moz-transition: all 0.2s;
-  transition: all 0.2s;
-}
-.swiper-button-next:hover,
-.swiper-button-prev:hover {
-  box-shadow: 0 0 40px rgba(0, 0, 0, 0.1);
-}
-.swiper-button-next, .swiper-container-rtl .swiper-button-prev {
-  background-image: url(../assets/arrow-right.png);
-  right: -40px;
-}
-.swiper-button-prev, .swiper-container-rtl .swiper-button-next {
-  background-image: url(../assets/arrow-left.png);
-  left: -40px;
-}
+
 
 
 /* Testimonial */
