@@ -159,6 +159,10 @@ h1.heading.pink:after {
   background: #fff;
 }
 
+.byte-logo{
+  object-fit: cover;
+}
+
 .client-box {
   background-color: #fff;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.03);
